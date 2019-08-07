@@ -2,6 +2,8 @@
 
 iTerm2 Status Bar for Sushi
 
+![SushiStatusBar.gif](./SushiStatusBar.gif)
+
 ## Install
 
 ```sh
